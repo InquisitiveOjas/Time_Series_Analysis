@@ -1,2 +1,3 @@
 # Time_Series_Analysis
-Various code snippets for designing and analyzing time series.
+Learning attempt on Time Series Analysis. This repository contains various code snippets for designing and analyzing time series.
+
